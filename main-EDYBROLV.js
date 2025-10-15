@@ -55933,7 +55933,7 @@ var WP = (() => {
           {
             img: "assets/images/svg-icons/social-icons/twitter-black.svg",
             alt: "Twitter",
-            link: "https://x.com/MaxiDogeCoin_",
+            link: "https://x.com/MaxithedogX",
           },
         ]),
         (this.socialMobile = [
@@ -55945,7 +55945,7 @@ var WP = (() => {
           {
             img: "assets/images/svg-icons/social-icons/twitter.svg",
             alt: "Twitter",
-            link: "https://x.com/MaxiDogeCoin_",
+            link: "https://x.com/MaxithedogX",
           },
         ]),
         this.subscriptions.push(
@@ -56450,7 +56450,7 @@ var qP = (() => {
             1,
             "icon",
           ],
-          ["href", "https://x.com/MaxiDogeCoin_", "target", "_blank"],
+          ["href", "https://x.com/MaxithedogX", "target", "_blank"],
           [
             "src",
             "/assets/images/svg-icons/social-icons/twitter.svg",
