@@ -55933,7 +55933,7 @@ var WP = (() => {
           {
             img: "assets/images/svg-icons/social-icons/twitter-black.svg",
             alt: "Twitter",
-            link: "https://x.com/maxiworldoneth",
+            link: "https://x.com/strongd_o_g_e",
           },
         ]),
         (this.socialMobile = [
@@ -55945,7 +55945,7 @@ var WP = (() => {
           {
             img: "assets/images/svg-icons/social-icons/twitter.svg",
             alt: "Twitter",
-            link: "https://x.com/maxiworldoneth",
+            link: "https://x.com/strongd_o_g_e",
           },
         ]),
         this.subscriptions.push(
@@ -56450,7 +56450,7 @@ var qP = (() => {
             1,
             "icon",
           ],
-          ["href", "https://x.com/maxiworldoneth", "target", "_blank"],
+          ["href", "https://x.com/strongd_o_g_e", "target", "_blank"],
           [
             "src",
             "/assets/images/svg-icons/social-icons/twitter.svg",
